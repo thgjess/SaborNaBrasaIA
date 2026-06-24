@@ -1,6 +1,6 @@
 # SaborNaBrasaIA
 
-# Uso de Inteligência Artificial para Controle de Estoque e Redução de Desperdício em Lanchonete Local
+# Uso de Inteligência Artificial para controle de estoque e redução de desperdício em lanchonete local
 
 Este projeto foi desenvolvido como atividade de extensão universitária para a disciplina de **Inteligência Artificial para Devs** do curso de Análise e Desenvolvimento de Sistemas (Estácio).
 
